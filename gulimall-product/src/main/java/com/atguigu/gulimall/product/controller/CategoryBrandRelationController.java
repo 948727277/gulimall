@@ -23,7 +23,7 @@ import com.atguigu.common.utils.R;
  *
  * @author fzx
  * @email fuzhixinzhenlihai@gmail.com
- * @date 2024-04-14 14:59:25
+ * @date 2024-05-14 18:04:51
  */
 @RestController
 @RequestMapping("product/categorybrandrelation")

@@ -6,7 +6,9 @@
  * 版权所有，侵权必究！
  */
 
-package io.renren.common.xss;
+package com.atguigu.common.xss;
+
+import io.renren.common.xss.XssHttpServletRequestWrapper;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
